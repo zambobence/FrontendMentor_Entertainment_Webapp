@@ -2,7 +2,7 @@
   "name": "test-context",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://github.com/zambobence/FrontendMentor_Entertainment_Webapp",
+  "homepage": "http://zambobence.github.io/FrontendMentor_Entertainment_Webapp",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
