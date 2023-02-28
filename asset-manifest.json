@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/zambobence/FrontendMentor_Entertainment_Webapp/static/css/main.3ae57e45.css",
-    "main.js": "/zambobence/FrontendMentor_Entertainment_Webapp/static/js/main.2de717ba.js",
-    "static/js/787.91229414.chunk.js": "/zambobence/FrontendMentor_Entertainment_Webapp/static/js/787.91229414.chunk.js",
-    "index.html": "/zambobence/FrontendMentor_Entertainment_Webapp/index.html",
-    "main.3ae57e45.css.map": "/zambobence/FrontendMentor_Entertainment_Webapp/static/css/main.3ae57e45.css.map",
-    "main.2de717ba.js.map": "/zambobence/FrontendMentor_Entertainment_Webapp/static/js/main.2de717ba.js.map",
-    "787.91229414.chunk.js.map": "/zambobence/FrontendMentor_Entertainment_Webapp/static/js/787.91229414.chunk.js.map"
+    "main.css": "/FrontendMentor_Entertainment_Webapp/static/css/main.3ae57e45.css",
+    "main.js": "/FrontendMentor_Entertainment_Webapp/static/js/main.13d21f6a.js",
+    "static/js/787.91229414.chunk.js": "/FrontendMentor_Entertainment_Webapp/static/js/787.91229414.chunk.js",
+    "index.html": "/FrontendMentor_Entertainment_Webapp/index.html",
+    "main.3ae57e45.css.map": "/FrontendMentor_Entertainment_Webapp/static/css/main.3ae57e45.css.map",
+    "main.13d21f6a.js.map": "/FrontendMentor_Entertainment_Webapp/static/js/main.13d21f6a.js.map",
+    "787.91229414.chunk.js.map": "/FrontendMentor_Entertainment_Webapp/static/js/787.91229414.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ae57e45.css",
-    "static/js/main.2de717ba.js"
+    "static/js/main.13d21f6a.js"
   ]
 }
