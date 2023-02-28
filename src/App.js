@@ -1,23 +1,29 @@
-import logo from './logo.svg';
 import './App.css';
-
+import { Route, Routes } from 'react-router-dom';
+import AllShowsComponent from './components/AllShowsComponent';
+import MoviesComponent from './components/MoviesComponent';
+import SeriesComponent from './components/SeriesComponent';
+import BookmarkedComponent from './components/BookmarkedComponent';
+import Header from './components/Header';
+import Footer from './components/Footer';
 function App() {
-  return (
+
+
+
+
+return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header />
+      <div className='screen-container'>
+      <Routes>
+        <Route exact path='/' element={<AllShowsComponent />}/>
+        <Route path='/movies' element={<MoviesComponent />}/>
+        <Route path='/series' element={<SeriesComponent />}/>
+        <Route path='/bookmarked' element={<BookmarkedComponent/>}/>
+      </Routes>
+      <Footer />
+      </div>
+
     </div>
   );
 }
