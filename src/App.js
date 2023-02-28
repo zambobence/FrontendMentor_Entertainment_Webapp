@@ -16,10 +16,10 @@ return (
       <Header />
       <div className='screen-container'>
       <Routes>
-        <Route exact path='/' element={<AllShowsComponent />}/>
-        <Route path='/movies' element={<MoviesComponent />}/>
-        <Route path='/series' element={<SeriesComponent />}/>
-        <Route path='/bookmarked' element={<BookmarkedComponent/>}/>
+        <Route exact path='/FrontendMentor_Entertainment_Webapp' element={<AllShowsComponent />}/>
+        <Route path='/FrontendMentor_Entertainment_Webapp/movies' element={<MoviesComponent />}/>
+        <Route path='/FrontendMentor_Entertainment_Webapp/series' element={<SeriesComponent />}/>
+        <Route path='/FrontendMentor_Entertainment_Webapp/bookmarked' element={<BookmarkedComponent/>}/>
       </Routes>
       <Footer />
       </div>
