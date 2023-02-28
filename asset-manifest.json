@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/FrontendMentor_Entertainment_Webapp/static/css/main.3ae57e45.css",
-    "main.js": "/FrontendMentor_Entertainment_Webapp/static/js/main.b61e4b5a.js",
+    "main.js": "/FrontendMentor_Entertainment_Webapp/static/js/main.ede3a33f.js",
     "static/js/787.91229414.chunk.js": "/FrontendMentor_Entertainment_Webapp/static/js/787.91229414.chunk.js",
     "index.html": "/FrontendMentor_Entertainment_Webapp/index.html",
     "main.3ae57e45.css.map": "/FrontendMentor_Entertainment_Webapp/static/css/main.3ae57e45.css.map",
-    "main.b61e4b5a.js.map": "/FrontendMentor_Entertainment_Webapp/static/js/main.b61e4b5a.js.map",
+    "main.ede3a33f.js.map": "/FrontendMentor_Entertainment_Webapp/static/js/main.ede3a33f.js.map",
     "787.91229414.chunk.js.map": "/FrontendMentor_Entertainment_Webapp/static/js/787.91229414.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ae57e45.css",
-    "static/js/main.b61e4b5a.js"
+    "static/js/main.ede3a33f.js"
   ]
 }
