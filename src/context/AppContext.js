@@ -1,10 +1,14 @@
 import React, {useState, createContext, useEffect} from 'react'
-import data from '../data.json'
+import data from '../data'
+
+
 
 const AppContext = createContext()
 
 function AppContextProvider({children}) {
 
+
+ 
 
     const [allData, setAllData] = useState(data)
     useEffect(()=>{console.log(allData)},[allData])
